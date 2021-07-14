@@ -1,12 +1,6 @@
 # Dana | Blog
 
 
-This project is part of my
-
-![DevSpace Blog](/public/images/screen.png 'DevSpace Blog')
-
-[VIEW DEMO](https://devspace-blog-pearl.vercel.app)
-
 ## Usage
 
 ### Install Dependencies
